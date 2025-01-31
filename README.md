@@ -17,9 +17,7 @@ En este divertido juego de **"Amigo Secreto"**, podrás sortear quién será el 
 3. Cuando tengas todos los nombres, presiona **"Sortear Amigo"**
 4. ¡Descubre mágicamente quién será tu amigo secreto!
 
-### 🔮 Un Toque Personal
-
-Este proyecto no es solo un juego, ¡es una forma divertida de fortalecer lazos de amistad! Cada sorteo es una pequeña aventura que genera sonrisas y emoción.
+### Este proyecto no es solo un juego, ¡es una forma divertida de fortalecer lazos de amistad! Cada sorteo es una pequeña aventura que genera sonrisas y emoción.
 
 ### 💡 Consejos
 
@@ -30,7 +28,7 @@ Este proyecto no es solo un juego, ¡es una forma divertida de fortalecer lazos 
 ### 📦 Tecnologías Utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 **¡Que comience la diversión del Amigo Secreto!** 🎉
