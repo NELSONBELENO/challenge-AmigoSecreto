@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NELSONBELENO/challenge-AmigoSecreto/blob/main/Badge-AmigoSecreto.webp" alt="Badge Spring" width="300"/>
+</p>
+
 # 🎲 Amigo Secreto: La Ruleta de la Amistad 🤝
 
 ## 🌟 Descripción del Proyecto
